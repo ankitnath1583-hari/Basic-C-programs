@@ -1,5 +1,5 @@
-[Ankit](Addition.c)
+[code for addition](Addition.c)
 
-[upes](Helloworld.c)
+[code for hello world print](Helloworld.c)
 
-[student](Multiplication)
+[code for multiplication](Multiplication)
