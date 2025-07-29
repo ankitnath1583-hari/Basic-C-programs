@@ -1,3 +1,3 @@
-[Ankit](Addition.c)/n
+[Ankit](Addition.c);
 [upes](Helloworld.c)
 [student](Multiplication)
