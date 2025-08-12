@@ -4,4 +4,4 @@
 
 [code for multiplication](Multiplication)
 
-[code for basic table](creating basic table)
+[code for basic table] (creating basic table)
