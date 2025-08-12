@@ -1,0 +1,17 @@
+#include <stdio.h>
+int main(){
+int x;
+int y;
+int z ;
+int total;
+x=10;
+y=20;
+z=30;
+total=x+y+z;
+printf("variable  value\n");
+printf(" x         %d\n",x);
+printf(" y         %d\n",y);
+printf(" z         %d\n",z); 
+printf("total      %d\n",total);
+return 0; 
+}
