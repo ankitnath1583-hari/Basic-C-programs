@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
 int x;
-int y;
+int y ;
 int z;
 int total;
 x=10;
