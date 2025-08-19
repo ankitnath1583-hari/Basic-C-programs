@@ -2,7 +2,7 @@
 int main(){
 int x;
 int y;
-int z ;
+int z;
 int total;
 x=10;
 y=20;
