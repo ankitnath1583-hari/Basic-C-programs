@@ -5,3 +5,8 @@
 [code for multiplication](Multiplication)
 
 [code for basic table] (creating basic table)
+
+[code to print happy birthday 108 times](git1.c)
+
+
+
