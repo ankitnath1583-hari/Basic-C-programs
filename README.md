@@ -10,5 +10,7 @@
 
 [code to check number is prime or not](primenumber.c)
 
+[code to print all prime no b/w 1 to 300](prime300.c)
+
 
 
