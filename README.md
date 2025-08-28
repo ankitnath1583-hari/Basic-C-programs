@@ -8,5 +8,7 @@
 
 [code to print happy birthday 108 times](git1.c)
 
+[code to check number is prime or not](primenumber.c)
+
 
 
