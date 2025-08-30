@@ -12,5 +12,7 @@
 
 [code to print all prime no b/w 1 to 300](prime300.c)
 
+[code find table of any number](multiplication.c)
+
 
 
