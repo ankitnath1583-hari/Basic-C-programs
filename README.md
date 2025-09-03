@@ -14,5 +14,7 @@
 
 [code find table of any number](multiplication.c)
 
+[array](array.c)
+
 
 
