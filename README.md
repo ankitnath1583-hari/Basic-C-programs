@@ -4,7 +4,7 @@
 
 [code for multiplication](Multiplication)
 
-[code for basic table] (creating basic table)
+[code for basic table] (createtable.c)
 
 [code to print happy birthday 108 times](git1.c)
 
