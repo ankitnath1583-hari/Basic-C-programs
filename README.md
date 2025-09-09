@@ -17,9 +17,12 @@
 [array](array.c)
 
 [swapping numbers](swappingnumbers.c)
+
 [user_defined functions](userdefined_functions.c)
 
 [2darray](2Darray.c)
+
+[Adding_array](addingarray.c)
 
 [NUMBER GUESSING GAME](project1.c)
 
