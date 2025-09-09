@@ -17,6 +17,7 @@
 [array](array.c)
 
 [swapping numbers](swappingnumbers.c)
+[user_defined functions](userdefined_functions.c)
 
 [2darray](2Darray.c)
 
