@@ -24,6 +24,10 @@
 
 [Adding_array](addingarray.c)
 
+[pointers](address_content.c)
+
+
+
 [NUMBER GUESSING GAME](project1.c)
 
 
