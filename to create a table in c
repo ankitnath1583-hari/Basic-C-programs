@@ -13,5 +13,6 @@ printf(" x         %d\n",x);
 printf(" y         %d\n",y);
 printf(" z         %d\n",z); 
 printf("total      %d\n",total);
+
 return 0; 
  }
