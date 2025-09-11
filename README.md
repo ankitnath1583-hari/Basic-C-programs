@@ -30,6 +30,8 @@
 
 [NUMBER GUESSING GAME](project1.c)
 
+[finding armstrong number](Armstrong.c)
+
 
 
 
