@@ -35,6 +35,7 @@
 
 [printing full name by using array](full_name.c)
 
+[checking weekend or not](switchcase.c)
 
 
 
