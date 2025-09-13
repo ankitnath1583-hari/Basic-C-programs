@@ -26,6 +26,8 @@
 
 [pointers](address_content.c)
 
+[to print a pattern in c](pattern_1.c)
+
 
 
 [NUMBER GUESSING GAME](project1.c)
