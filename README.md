@@ -39,6 +39,8 @@
 
 [recursion in c](recursion.c)
 
+[to find first day of any year from gregorian calendar](year_1.c)
+
 
 
 
