@@ -45,6 +45,8 @@
 
 [collinear](collinear.c)
 
+[count 0,1,2](count.c)
+
 
 
 
