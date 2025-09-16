@@ -1,26 +1,26 @@
-#include <stdio.h>
 
-int main() {
-    int num, choice;
-    int positive = 0, negative = 0, zero = 0;
-
-    do {
-        printf("Enter a number: ");
-        scanf("%d", &num);
-
-        if (num > 0) {
-            positive++;
-        } else if (num < 0) {
-            negative++;
-        } else {
-            zero++;  }     printf("Do you want to enter another number? (1 = Yes / 0 = No): ");
-        scanf("%d", &choice);
-    } while (choice == 1);
-
-    printf("\n--- Result ---\n");
-    printf("Positive numbers: %d\n", positive);
-    printf("Negative numbers: %d\n", negative);
-    printf("Zeroes: %d\n", zero);
-
-    return 0;
+# include <stdio.h>
+int main(){
+    float BMI,Weight,Height;
+    printf("enter your height in meters");
+    scanf("%f",&Height);
+    printf("enter your weight in kgs");
+    scanf("%f",&Weight);
+    BMI=Weight/(Height*Height);
+    if(BMI<15)
+    printf("starvation");
+    else if(BMI>=15.1 && BMI<=17.5)
+    printf("anorexic");
+    else if(BMI>17.6&& BMI<18.5)
+    printf("underweight");
+    else if(BMI>18.6 && BMI<24.9)
+    printf("ideal");
+    else if(BMI>25 && BMI<29.9)
+    printf("overweight");
+    else if(BMI>30 && BMI<39.9)
+    printf("obese");
+    else
+    {
+        printf("morbidity obese");
+    }
 }
