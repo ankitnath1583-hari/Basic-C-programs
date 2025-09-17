@@ -26,6 +26,8 @@
 
 [pointers](address_content.c)
 
+[to check validity and type of triangle on the basis of sides](triangle.c)
+
 [to print a pattern in c](pattern_1.c)
 
 
