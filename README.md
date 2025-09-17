@@ -43,6 +43,8 @@
 
 [to find first day of any year from gregorian calendar](year_1.c)
 
+[ramanujan numbers upto 5000](ramanujan.c)
+
 [collinear](collinear.c)
 
 [count 0,1,2](count.c)
