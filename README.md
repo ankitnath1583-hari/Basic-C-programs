@@ -53,6 +53,8 @@
 
 [gregorian calendar first day of every year](gregorian.c)
 
+[greatest common factor](gcd.c)
+
 
 
 
