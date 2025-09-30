@@ -55,6 +55,8 @@
 
 [greatest common factor](gcd.c)
 
+[function](fumnction_1.c)
+
 
 
 
