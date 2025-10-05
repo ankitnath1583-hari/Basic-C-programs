@@ -57,6 +57,10 @@
 
 [function](fumnction_1.c)
 
+[class work](dothis.c)
+
+[]given exercise(givenexercise.c)
+
 
 
 
