@@ -63,6 +63,8 @@
 
 [pointers test 1](evaluation1.c)
 
+[pointers test 3](evaluation3.c)
+
 
 
 
