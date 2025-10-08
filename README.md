@@ -61,6 +61,8 @@
 
 []given exercise(givenexercise.c)
 
+[pointers test 1](evaluation1.c)
+
 
 
 
