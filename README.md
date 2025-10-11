@@ -67,6 +67,8 @@
 
 [union](union_1.c)
 
+[enum](newenum.c)
+
 
 
 
