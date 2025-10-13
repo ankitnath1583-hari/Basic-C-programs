@@ -69,6 +69,8 @@
 
 [enum](newenum.c)
 
+[global variabkle](globalvar.c)
+
 
 
 
