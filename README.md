@@ -73,6 +73,9 @@
 
 [global and loca;l variable test in c language](globalandlocal.c)
 
+[calloc](calloc.c)
+
+
 
 
 
