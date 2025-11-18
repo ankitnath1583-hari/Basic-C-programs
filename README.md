@@ -75,6 +75,10 @@
 
 [calloc](calloc.c)
 
+[fclose](fclose.c)
+
+
+
 
 
 
